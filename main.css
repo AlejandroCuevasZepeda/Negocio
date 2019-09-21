@@ -1,0 +1,17 @@
+div {
+    margin: 10px;
+}
+
+table {
+    table-layout: fixed;
+    text-align: center;
+    margin-top: 35px;
+    width: 1000px;
+    border: 1px solid black;
+}
+
+th, td {
+    width: 166.66px;
+    border: 1px solid black;
+    word-wrap: break-word;
+}
